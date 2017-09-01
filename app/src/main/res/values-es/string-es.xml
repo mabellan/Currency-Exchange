@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">AC4</string>
+    <string name="no_act">Sin valores aun</string>
+    <string name="xbt_to">XBT a</string>
+
+    <string name="loading">Cargando valores</string>
+
+</resources>

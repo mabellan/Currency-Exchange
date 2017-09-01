@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AC4</string>
+    <string name="no_act">No values yet</string>
+    <string name="xbt_to">XBT to </string>
+    <string name="loading">Loading values</string>
+
+
+</resources>
